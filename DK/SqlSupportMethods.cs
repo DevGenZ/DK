@@ -132,5 +132,11 @@ namespace DK
 
             return id;
         }
+
+        //Tạo unique ID theo thời gian thực
+        public static string CreateUniqueID()
+        {
+            return DateTime.Now.ToString("HHmmssddMM");
+        }
     }
 }

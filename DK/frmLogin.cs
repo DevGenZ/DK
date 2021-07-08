@@ -35,6 +35,8 @@ namespace DK
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            lblUsername.Focus();
+
             if (String.IsNullOrEmpty(txtUsername.Text))
             {
                 MessageBox.Show("Vui lòng nhập tài khoản!");
@@ -78,6 +80,8 @@ namespace DK
 
         private void btnShow_Click(object sender, EventArgs e)
         {
+            txtPassword.Focus();
+
             if (statusShow == false)
             {
                 btnShow.BackgroundImage = Properties.Resources.icons8_eye_24;

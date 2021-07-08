@@ -8,3 +8,15 @@ C:\Users\is2vi\OneDrive\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK
 C:\Users\is2vi\OneDrive\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.exe
 C:\Users\is2vi\OneDrive\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.pdb
 C:\Users\is2vi\OneDrive\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.frmMain.resources
+C:\Users\is2vi\Project\DK\DK\bin\Debug\DK.exe.config
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.exe
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.pdb
+C:\Users\is2vi\Project\DK\DK\bin\Debug\DK.exe
+C:\Users\is2vi\Project\DK\DK\bin\Debug\DK.pdb
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.csprojResolveAssemblyReference.cache
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.frmLogin.resources
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.frmMain.resources
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.frmSearch.resources
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
+C:\Users\is2vi\Project\DK\DK\obj\Debug\DK.frmSql.resources
